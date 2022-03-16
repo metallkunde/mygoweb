@@ -43,7 +43,7 @@ $ curl http://localhost:19999/students
 
 /*
 (3) serve static files
-$ curl http://localhost:19999/assets/css/geektutu.css
+$ curl http://localhost:19999/assets/css/kunder.css
 p {
     color: orange;
     font-weight: 700;
